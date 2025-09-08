@@ -1,9 +1,9 @@
 obb stick
-
+https://universe.roboflow.com/violence-detection-rvh0k/stick-rod-detection
 
 https://universe.roboflow.com/violence-detection-rvh0k/stick-rod-detection
 
-
+https://universe.roboflow.com/violence-detection-2/gun-knife-stick-detection
 
 https://universe.roboflow.com/violence-detection-rvh0k/stick-rod-detection
 
