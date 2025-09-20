@@ -55,6 +55,10 @@ https://universe.roboflow.com/violence-detection-rvh0k/stick-rod-detection
 
 
 
+https://shaolinkungfulibrary.com/collections/books
+
+https://shaolinkungfulibrary.com/collections/dvd
+
 
 
 
